@@ -1,3 +1,4 @@
+{/* Eventak Landing Page - v2.0 - Modern Design */}
 "use client";
 
 import { useEffect, useState } from "react";
