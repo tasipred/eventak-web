@@ -1,5 +1,5 @@
-{/* Eventak Landing Page - v2.0 - Modern Design */}
 "use client";
+// Eventak Landing Page - v2.0 - Modern Design
 
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
