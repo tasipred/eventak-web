@@ -195,7 +195,7 @@ export default function Home() {
                 asChild
                 className="bg-gradient-to-l from-emerald-500 to-green-600 hover:from-emerald-600 hover:to-green-700 text-white gap-2 shadow-lg shadow-emerald-500/25 hover:shadow-emerald-500/40 transition-all duration-300 font-medium px-5"
               >
-                <a href="https://wa.me/966551315886" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/14155238886" target="_blank" rel="noopener noreferrer">
                   <MessageCircle className="w-5 h-5" />
                   <span className="hidden sm:inline">تواصل عبر واتساب</span>
                   <span className="sm:hidden">تواصل</span>
@@ -276,7 +276,7 @@ export default function Home() {
                 size="lg"
                 className="bg-gradient-to-l from-emerald-500 to-green-600 hover:from-emerald-600 hover:to-green-700 text-white gap-3 h-16 px-10 text-lg font-bold shadow-2xl shadow-emerald-500/30 hover:shadow-emerald-500/50 transition-all duration-300 hover:scale-[1.02] rounded-2xl"
               >
-                <a href="https://wa.me/966551315886" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/14155238886" target="_blank" rel="noopener noreferrer">
                   <MessageCircle className="w-6 h-6" />
                   تواصل عبر واتساب
                   <ArrowLeft className="w-5 h-5" />
@@ -303,11 +303,11 @@ export default function Home() {
                 <div className="text-right">
                   <p className="text-xs text-gray-500">رقم الواتساب</p>
                   <a 
-                    href="https://wa.me/966551315886" 
+                    href="https://wa.me/14155238886" 
                     className="font-bold text-xl text-gray-900 hover:text-emerald-600 transition-colors"
                     dir="ltr"
                   >
-                    +966 55 131 5886
+                    +1 (415) 523-8886
                   </a>
                 </div>
               </div>
@@ -523,7 +523,7 @@ export default function Home() {
                   variant="outline"
                   className="border-2 border-white/30 text-white hover:bg-white/10 gap-3 h-14 px-8 text-lg font-medium backdrop-blur-sm rounded-2xl"
                 >
-                  <a href="https://wa.me/966551315886" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/14155238886" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="w-5 h-5" />
                     تواصل معنا
                   </a>
@@ -592,7 +592,7 @@ export default function Home() {
               <div className="inline-flex items-center gap-3 bg-white px-8 py-4 rounded-2xl shadow-lg border border-gray-100">
                 <Phone className="w-6 h-6 text-emerald-600" />
                 <span className="text-2xl font-bold text-gray-900" dir="ltr">
-                  +966 55 131 5886
+                  +1 (415) 523-8886
                 </span>
               </div>
               
@@ -601,7 +601,7 @@ export default function Home() {
                 size="lg"
                 className="bg-gradient-to-l from-emerald-500 to-green-600 hover:from-emerald-600 hover:to-green-700 text-white gap-3 h-18 px-12 text-xl font-bold shadow-2xl shadow-emerald-500/30 hover:shadow-emerald-500/50 transition-all duration-300 hover:scale-[1.02] rounded-2xl"
               >
-                <a href="https://wa.me/966551315886" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/14155238886" target="_blank" rel="noopener noreferrer">
                   <MessageCircle className="w-7 h-7" />
                   ابدأ الآن عبر الواتساب
                   <ArrowLeft className="w-6 h-6" />
@@ -642,7 +642,7 @@ export default function Home() {
                   size="sm"
                   className="bg-gradient-to-l from-emerald-500 to-green-600 hover:from-emerald-600 hover:to-green-700 text-white gap-2 rounded-xl"
                 >
-                  <a href="https://wa.me/966551315886" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/14155238886" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="w-4 h-4" />
                     تواصل عبر الواتساب
                   </a>
@@ -674,11 +674,11 @@ export default function Home() {
               <h4 className="text-lg font-bold">تواصل معنا</h4>
               <ul className="space-y-4">
                 <li>
-                  <a href="https://wa.me/966551315886" className="flex items-center gap-3 text-gray-400 hover:text-white transition-colors">
+                  <a href="https://wa.me/14155238886" className="flex items-center gap-3 text-gray-400 hover:text-white transition-colors">
                     <div className="w-10 h-10 bg-white/10 rounded-xl flex items-center justify-center">
                       <Phone className="w-5 h-5" />
                     </div>
-                    <span dir="ltr">+966 55 131 5886</span>
+                    <span dir="ltr">+1 (415) 523-8886</span>
                   </a>
                 </li>
                 <li className="flex items-center gap-3 text-gray-400">

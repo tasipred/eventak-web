@@ -183,7 +183,7 @@ export default function VendorSignupPage() {
                 variant="outline"
                 className="border-2 border-emerald-200 text-emerald-700 hover:bg-emerald-50 h-14 text-lg font-medium rounded-2xl"
               >
-                <a href="https://wa.me/966551315886" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/14155238886" target="_blank" rel="noopener noreferrer">
                   <MessageCircle className="w-5 h-5 ml-2" />
                   تواصل معنا عبر واتساب
                 </a>
