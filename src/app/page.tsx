@@ -66,7 +66,7 @@ export default function Home() {
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link 
-              href="https://wa.me/YOUR_NUMBER" 
+              href="https://wa.me/+14155238886" 
               className="w-full sm:w-auto flex items-center justify-center gap-2 bg-emerald-500 hover:bg-emerald-400 text-black px-8 py-3.5 rounded-full font-semibold transition-all group"
             >
               تحدث مع هدهد الآن
