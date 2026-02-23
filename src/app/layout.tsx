@@ -12,10 +12,10 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: "إيفنتاك - سوق المناسبات السعودي | خطط لمناسبتك بذكاء",
+  title: "منصة هدهد",
   description: "خطط لمناسبتك بذكاء.. ودع العروض تأتيك! منصة سعودية مبتكرة تربطك بأفضل مقدمي خدمات المناسبات عبر الواتساب. ولائم، قهوجية، تصوير، مكياج، ترفيه وأكثر.",
   keywords: [
-    "إيفنتاك", 
+    "منصة هدهد", 
     "مناسبات", 
     "سعودي", 
     "زفاف", 
@@ -33,15 +33,15 @@ export const metadata: Metadata = {
     "جدة",
     "الدمام"
   ],
-  authors: [{ name: "Eventak Team" }],
-  creator: "Eventak",
-  publisher: "Eventak",
+  authors: [{ name: "hudhud Team" }],
+  creator: "hudhud",
+  publisher: "hudhud",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://eventak.sa"),
+  metadataBase: new URL("https://hudhudbot.com"),
   alternates: {
     canonical: "/",
   },
@@ -54,10 +54,10 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
-    title: "إيفنتاك - سوق المناسبات السعودي",
+    title: "منصة هدهد",
     description: "خطط لمناسبتك بذكاء.. ودع العروض تأتيك! منصة سعودية تربطك بأفضل مقدمي خدمات المناسبات.",
-    url: "https://eventak.sa",
-    siteName: "إيفنتاك",
+    url: "https://hudhudbot.com",
+    siteName: "منصة هدهد",
     type: "website",
     locale: "ar_SA",
     images: [
@@ -65,16 +65,16 @@ export const metadata: Metadata = {
         url: "/logo.png",
         width: 1200,
         height: 630,
-        alt: "إيفنتاك - سوق المناسبات السعودي",
+        alt: "منصة هدهد",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "إيفنتاك - سوق المناسبات السعودي",
+    title: "منصة هدهد",
     description: "خطط لمناسبتك بذكاء.. ودع العروض تأتيك!",
     images: ["/logo.png"],
-    creator: "@eventak_sa",
+    creator: "@hudhudbot",
   },
   robots: {
     index: true,
