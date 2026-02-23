@@ -80,12 +80,11 @@ export default function Home() {
 
         {/* Hero Image / Dashboard Mockup Preview */}
         <div className="relative max-w-6xl mx-auto mt-20 px-6">
-          <div className="rounded-2xl border border-white/10 bg-zinc-900/50 backdrop-blur-sm p-2 shadow-2xl">
+          <div className="rounded-2xl border border-white/10 bg-zinc-900/50 backdrop-blur-sm p-4 shadow-2xl">
             <div className="rounded-xl overflow-hidden border border-white/5 bg-zinc-950 aspect-[16/9] flex items-center justify-center">
-               {/* Replace this div with your actual dashboard screenshot using next/image */}
                <div className="text-zinc-600 font-mono text-sm flex flex-col items-center gap-4">
                   <Bot className="w-12 h-12 text-zinc-800" />
-                  <span>[ Dashboard Interface UI Preview ]</span>
+                  <span>[ Replace this box with a screenshot of your dashboard ]</span>
                </div>
             </div>
           </div>
@@ -155,13 +154,3 @@ export default function Home() {
     </div>
   );
 }
-
-
-### 2. Next Steps to Make it Perfect
-
-1.  Colors (tailwind.config.ts): The code relies on Tailwind's default zinc and emerald colors, which you already have. You might want to update your globals.css to ensure the background is fully dark by default:
-    
-    body {
-      background-color: #09090b; /* zinc-950 */
-      color: #fafafa;
-    }
