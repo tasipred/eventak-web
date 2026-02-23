@@ -102,7 +102,7 @@ export default function Home() {
                </p>
                
                <Link 
-                 href="https://wa.me/YOUR_NUMBER"
+                 href="https://wa.me/+14155238886"
                  target="_blank"
                  className="relative z-10 inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-black px-8 py-3.5 rounded-full font-bold transition-all hover:scale-105"
                >
@@ -166,7 +166,7 @@ export default function Home() {
           <div className="flex gap-6 mt-4 md:mt-0">
             <Link href="#" className="hover:text-white transition-colors">تويتر</Link>
             <Link href="#" className="hover:text-white transition-colors">انستجرام</Link>
-            <Link href="https://wa.me/YOUR_NUMBER" className="hover:text-white transition-colors">واتساب</Link>
+            <Link href="https://wa.me/+14155238886" className="hover:text-white transition-colors">واتساب</Link>
           </div>
         </div>
       </footer>
