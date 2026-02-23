@@ -30,7 +30,7 @@ export default function Home() {
               انضم كمزود خدمة
             </Link>
             <Link 
-              href="https://wa.me/YOUR_NUMBER" 
+              href="https://wa.me/+14155238886" 
               className="text-sm font-semibold bg-white text-black px-4 py-2 rounded-full hover:bg-zinc-200 transition-colors"
             >
               خطط مناسبتك
